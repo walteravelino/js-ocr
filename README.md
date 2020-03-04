@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.com/walteravelino/Projetos.svg?branch=master)](https://travis-ci.com/walteravelino/Projetos)
 <img src = "https://img.shields.io/github/languages/top/walteravelino/js-ocr">
+<a href="https://github.com/walteravelino/Projetos/blob/master/LICENSE"><img src = "https://img.shields.io/github/license/walteravelino/Projetos"></a>
 
 - Demo: [js-ocr](https://walteravelino.github.io/js-ocr/)
 
