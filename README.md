@@ -4,7 +4,6 @@
 
 <img src = "https://github.com/walteravelino/Posts/blob/master/images/js-ocr.png">
 
-
 ## Autor
 
 👤 **Walter Avelino**
