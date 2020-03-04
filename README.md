@@ -3,6 +3,7 @@
 
 - Demo: [js-ocr](https://walteravelino.github.io/js-ocr/)
 
+
 <img src = "https://github.com/walteravelino/Posts/blob/master/images/js-ocr.png">
 
 ## Autor
